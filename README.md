@@ -1,5 +1,7 @@
 CRUD sencillo utilizando Ant Design
 
+![Demo](./demo.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
